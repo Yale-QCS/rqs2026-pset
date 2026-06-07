@@ -1,6 +1,6 @@
 # Fermionic Permutation — Problem Set (RQS Summer School 2026)
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yongshanding/rqs2026-pset/blob/main/problem_set.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Yale-QCS/rqs2026-pset/blob/main/problem_set.ipynb)
 
 Hands-on coding exercise for the lecture **"Architecture and Compiler Design
 for Hamiltonian Simulations"**: five problems on fermionic permutations under
@@ -16,7 +16,7 @@ toolkit automatically (~1 minute).
 **Local Jupyter:**
 
 ```bash
-git clone https://github.com/yongshanding/rqs2026-pset
+git clone https://github.com/Yale-QCS/rqs2026-pset
 cd rqs2026-pset
 pip install -r requirements.txt
 jupyter notebook problem_set.ipynb
