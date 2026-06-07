@@ -8,7 +8,9 @@ the Jordan–Wigner mapping, from a single fermionic swap to a full Trotter step
 of a 2-D Fermi–Hubbard model on two hardware topologies.
 
 **Instructor:** Prof. Yongshan Ding
+
 **PSet designed by:** Dantong Li
+
 **PSet built on:** Pennylane
 
 ## Quick start
