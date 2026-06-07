@@ -9,11 +9,11 @@ of a 2-D Fermi–Hubbard model on two hardware topologies.
 
 ## Quick start
 
-**Google Colab (recommended for the lecture):** click the badge above, then
+Option 1: **Google Colab (recommended for the lecture):** click the badge above, then
 run the *Setup* cells — they install PennyLane and fetch the `pset_tools`
 toolkit automatically (~1 minute).
 
-**Local Jupyter:**
+Option 2: **Local Jupyter:**
 
 ```bash
 git clone https://github.com/Yale-QCS/rqs2026-pset
